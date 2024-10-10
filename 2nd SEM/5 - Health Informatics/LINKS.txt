@@ -1,0 +1,37 @@
+X What are the Health Informatics Data Types?
+X https://www.youtube.com/watch?v=udRhJCnNOYE
+
+X A Practical Approach to Healthcare Data Warehouse Design, Analytics
+X https://www.youtube.com/watch?v=QG811SItsIc
+
+x EHR Implementation Plan: Your 8-Step Checklist [Article]
+x https://www.ehrinpractice.com/ehr-implementation-plan.html?authuser=0
+
+x Electronic Health Record Challenging for Clinic? [NCBI] [Paper]
+x https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9295893/?authuser=0
+
+EHR
+https://www.tempdev.com/blog/2020/08/28/what-is-an-ehr-clinical-data-conversion/?authuser=0
+
+Electronic Health Records (EHR Systems) [Youtube]
+https://www.youtube.com/watch?v=EBGZdfdZDuU
+
+EHR Integration: Main Reasons and Challenges with their Solutions
+https://www.intellectsoft.net/blog/electronic-health-record-ehr-integration-main-reasons-and-challenges-with-their-solutions/?authuser=0
+
+
+
+------------------------------------------------------------------------------
+x Data Standards in Healthcare
+x https://www.altexsoft.com/blog/data-standards-healthcare/
+
+x Health information standards
+x https://omicstutorials.com/health-information-standards/?authuser=0
+
+x A Bird's Eye View of Health Data Standards
+x https://www.nlm.nih.gov/bsd/disted/video/clin_info/standards.html?authuser=0
+
+
+
+
+

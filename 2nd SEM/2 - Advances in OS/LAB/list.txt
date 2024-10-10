@@ -1,0 +1,27 @@
+
+1. Develop an application using process control APIs to demonstrate virtualization of CPU and Virtualization of memory
+2. Implement a multithreaded application using Pthread Library to perform I/O operations
+3. Implement the code for context switching in xv6.
+4. Simulate a Multilevel Feedback Queue scheduler and analyse the performance using different scheduling metrics.
+5. Implement a lottery scheduler with random seeds. 
+6. Implement Lock With Queues, Test-and-set, Yield, and Wakeup. 
+7. Demonstrate the use of linux based Futex Locks.
+8. Build a concurrent hashtable using concurrent lists. 
+
+9. Write a C program that takes one or more file/directory names as command line input and reports following info,
+A) File Type    B) Number Of Links   C) Time of last Acces   D) Read,write and execute permission
+
+10. Write a kernel program and print “Hello World” using insmod, rmmod, lsmod etc.
+
+Open Ended Experiments
+The students are expected to implement a mini project using operating system concepts and APIs/system calls learned
+in the theory. The primary emphasis of the experiment is to understand and gain knowledge of operating system 
+concepts so as to apply these concepts in implementing solutions to real world problems.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+1) THREAD Function in C
+~ https://www.geeksforgeeks.org/thread-functions-in-c-c/
+
+6) LOCKS
+~ https://ceunican.github.io/aos/28.Locks.pdf
