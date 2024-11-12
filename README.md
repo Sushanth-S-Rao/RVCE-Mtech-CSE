@@ -1,6 +1,6 @@
 # STUDY Materials
 
-|          |  |
+|          Branch Inforamtion  |
 |----------|------------------------------|
 | Batch:   | 2023-2025                    | 
 | Course:  | Computer Science Engineering |
