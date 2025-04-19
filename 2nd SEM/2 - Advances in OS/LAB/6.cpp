@@ -99,7 +99,6 @@ int main() {
     return 0;
 }
 
-
 void printQ(queue<pthread_t> temp) {
     cout << "Threads sleeping in the queue: ";
     while(!temp.empty()) {
