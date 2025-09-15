@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="1f62pJY5RPJ0C8_YS-2d">
+    <mxGraphModel dx="1042" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I2qIaFpJPBGaTxa48Ngo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rYmyPqXjRHj5rGfJqj_9-1" target="I2qIaFpJPBGaTxa48Ngo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYmyPqXjRHj5rGfJqj_9-1" value="Telemetric Data Logs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="80" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I2qIaFpJPBGaTxa48Ngo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2qIaFpJPBGaTxa48Ngo-1" target="I2qIaFpJPBGaTxa48Ngo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2qIaFpJPBGaTxa48Ngo-1" value="Data Ingestion and Preprocessing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I2qIaFpJPBGaTxa48Ngo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.211;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="I2qIaFpJPBGaTxa48Ngo-2" target="I2qIaFpJPBGaTxa48Ngo-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2qIaFpJPBGaTxa48Ngo-2" value="Embedding and Vectorization layer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I2qIaFpJPBGaTxa48Ngo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2qIaFpJPBGaTxa48Ngo-3" target="I2qIaFpJPBGaTxa48Ngo-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2qIaFpJPBGaTxa48Ngo-3" value="Vector Database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I2qIaFpJPBGaTxa48Ngo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="I2qIaFpJPBGaTxa48Ngo-6" target="I2qIaFpJPBGaTxa48Ngo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2qIaFpJPBGaTxa48Ngo-6" value="Retrieved Context through Similarity Search" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="240" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I2qIaFpJPBGaTxa48Ngo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2qIaFpJPBGaTxa48Ngo-7" target="I2qIaFpJPBGaTxa48Ngo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2qIaFpJPBGaTxa48Ngo-7" value="Prompt Construction and LLM Response" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="160" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I2qIaFpJPBGaTxa48Ngo-8" value="User Interface" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="80" width="140" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
