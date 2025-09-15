@@ -1,4 +1,4 @@
-### Diagrams
+## Diagrams
 
 The data flow diagrams and structure chart can be created on [Draw.io](https://draw.io/).
 
